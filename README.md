@@ -1,2 +1,2 @@
-codsoft
-my first repository
+# codsoft
+new repo
